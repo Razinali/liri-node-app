@@ -1,4 +1,4 @@
-# **iri-node-app (Language Interpretation and Recognition Interface)**
+# **liri-node-app (Language Interpretation and Recognition Interface)**
 
 ## About LIRI
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
@@ -6,7 +6,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## What LIRI does and what to input
 
 Commands | Functions | Description
------------- | -------------
+------------ | ------------- | -------------
 Concert This | ```node liri.js concert-thisMaroon5``` | Uses the bandsintown API to take a band name from the user and returns that bands next concert
 Spotify for songs | ```node liri.js spotify-this-song i like it``` | Uses the spotify API to take a song name from the user and returns the artist, song name, spotify-link and album
 OMDB for movies | ```node liri.js movie-this Frozen``` | Uses the OMDB API to take a movie name and returns the name, cast, release year, IMDB and Rotten Tomatoes rating, country of origin, language and plot
@@ -18,7 +18,7 @@ Do What It Says | ```node liri.js do-what-it-says``` | uses the built in readFil
 3. Make sure you add the following to your .env file:
 
 ### **Spotify API Key**
-https://developer.spotify.com/my-applications/#!/ - automatic!
+https://developer.spotify.com/my-applications/#!/ !
 [Spotify](https://developer.spotify.com/my-applications/#!/)
 
 SPOTIFY_ID= _your-ID_
@@ -26,13 +26,13 @@ SPOTIFY_ID= _your-ID_
 SPOTIFY_SECRET= _your-secret_
 
 ### **OMDB API key**
-http://www.omdbapi.com/apikey.aspx - automatic!
+http://www.omdbapi.com/apikey.aspx !
 [OMDB](http://www.omdbapi.com/apikey.aspx)
 
 OMDB_ID="_your-api-key_"
 
 ### **BandCamp API**
-https://bandcamp.com/developer#calling_the_api - automatic!
+https://bandcamp.com/developer#calling_the_api !
 [BandCamp](https://bandcamp.com/developer#calling_the_api)
 
 BANDCAMP_ID="_your-api-key_"
