@@ -18,7 +18,6 @@ Do What It Says | ```node liri.js do-what-it-says``` | uses the built in readFil
 3. Make sure you add the following to your .env file:
 
 ### **Spotify API Key**
-https://developer.spotify.com/my-applications/#!/ !
 [Spotify](https://developer.spotify.com/my-applications/#!/)
 
 SPOTIFY_ID= _your-ID_
@@ -26,13 +25,11 @@ SPOTIFY_ID= _your-ID_
 SPOTIFY_SECRET= _your-secret_
 
 ### **OMDB API key**
-http://www.omdbapi.com/apikey.aspx !
 [OMDB](http://www.omdbapi.com/apikey.aspx)
 
 OMDB_ID="_your-api-key_"
 
 ### **BandCamp API**
-https://bandcamp.com/developer#calling_the_api !
 [BandCamp](https://bandcamp.com/developer#calling_the_api)
 
 BANDCAMP_ID="_your-api-key_"
@@ -61,8 +58,8 @@ BANDCAMP_ID="_your-api-key_"
 
 
 ## Technologies Used:
-..*nodeJS
-..*MySQL
-..*Javascript
+*nodeJS
+*MySQL
+*Javascript
 
 ## *Hope That You Enjoy LIRI Bot!*
