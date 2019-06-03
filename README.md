@@ -33,16 +33,16 @@ Do What It Says | ```node liri.js do-what-it-says``` | uses the built in readFil
 ## Functionality
 
 1. **Spotify for songs**
-    Function takes the userInput (command) and the userQuery(artist), and returns the next concert time and date for that artist, as well as location and city.
+    >Function takes the userInput (command) and the userQuery(artist), and returns the next concert time and date for that artist, as well as location and city.
 
 2. **Bands in Town for concerts**
-    Function takes the userInput (command) and the userQuery(song), and returns the artist, full track name, a preview link and the album.
+    >Function takes the userInput (command) and the userQuery(song), and returns the artist, full track name, a preview link and the album.
 
 3. **OMDB for movies**
-    Function takes the userInput (command) and the userQuery(song), and returns title, cast, release date, ratings, country of origin, original language and synopsis. 
+    >Function takes the userInput (command) and the userQuery(song), and returns title, cast, release date, ratings, country of origin, original language and synopsis. 
 
-4. Do what it says
-    This function will randomly select one of the functions and produce a search. Try and find out what it does!
+4. **Do what it says**
+    >This function will randomly select one of the functions and produce a search. Try and find out what it does!
 
 | Functiion | Result | 
 |:---: |:-----: 
@@ -53,8 +53,8 @@ Do What It Says | ```node liri.js do-what-it-says``` | uses the built in readFil
 
 
 ## Technologies Used:
-*nodeJS
-*MySQL
-*Javascript
+* nodeJS
+* MySQL
+* Javascript
 
 ## *Hope That You Enjoy LIRI Bot!*
