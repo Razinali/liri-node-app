@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Razinali/liri-node-app#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "console.table": "^0.10.0",
     "dotenv": "^7.0.0",
